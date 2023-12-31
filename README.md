@@ -2,7 +2,7 @@
 
 This Arduino Mars Rover is built for [SEEK 2023 Competition](https://rsx.squarespace.com/seek-2023). We won 2nd place overall amongst 35 teams.
 
-[![Competition Video](https://img.youtube.com/watch?v=Fewr4BGj5NM/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fewr4BGj5NM)
+[![Competition Video](https://img.youtube.com/vi/Fewr4BGj5NM/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
 
 
 
