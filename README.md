@@ -1,6 +1,8 @@
 # ALEX-the-Mars-Rover
 
-This Arduino Mars Rover is built for [SEEK 2023 Competition](https://rsx.squarespace.com/seek-2023). We won 2nd place overall amongst 35 teams. 
+This Arduino Mars Rover is built for [SEEK 2023 Competition](https://rsx.squarespace.com/seek-2023). We won 2nd place overall amongst 35 teams.
+
+![Competition Video](https://youtu.be/Fewr4BGj5NM)
 
 ## Side and Top Views of ALEX
 ![ALEX Side View](ALEX_Side_View.jpg)
